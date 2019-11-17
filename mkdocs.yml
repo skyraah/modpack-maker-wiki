@@ -1,0 +1,11 @@
+site_name: 从零开始的整合包制作教程
+pages:
+    - 主页: index.md
+    - 目录: contents.md
+    - 阅读提示: read_tips.md
+    - 正文:
+        - 头脑风暴:
+            - 主题以及类型选择: text/brainstorming/theme_selection_and_type_selection.md
+    - 相关: about.md
+theme:
+  name: 'windmill'
