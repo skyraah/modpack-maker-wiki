@@ -5,7 +5,8 @@ pages:
     - 阅读提示: read_tips.md
     - 正文:
         - 头脑风暴:
-            - 主题以及类型选择: text/brainstorming/theme_selection_and_type_selection.md
+            - 主题以及类型选择: text/brainstorming/brainstorm_01.md
+            - 设置一个合理的背景: text/brainstorming/brainstorm_02.md
     - 相关: about.md
 theme:
   name: null

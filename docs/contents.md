@@ -5,8 +5,8 @@
 
 # 头脑风暴  *
 
-* [主题以及类型的选择](.../text/brainstorming/theme_selection_and_type_selection)
-* 设置一个合理的背景
+* [主题以及类型的选择](.../text/brainstorming/brainstorm_01)
+* [设置一个合理的背景](.../text/brainstorming/brainstorm_02)
 * 剧情的撰写
 * 如何跳出思维定式
 
