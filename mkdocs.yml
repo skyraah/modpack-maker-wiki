@@ -8,4 +8,5 @@ pages:
             - 主题以及类型选择: text/brainstorming/theme_selection_and_type_selection.md
     - 相关: about.md
 theme:
-  name: 'windmill'
+  name: 'mkdocs'
+  theme_dir: 'custom_theme'
